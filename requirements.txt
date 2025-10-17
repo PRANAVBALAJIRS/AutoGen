@@ -5,4 +5,5 @@ asyncio
 python-dotenv
 openai
 autogen-ext[openai]
+autogen-ext[ollama]
 tiktoken
